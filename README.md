@@ -23,6 +23,7 @@
 | 11 | [Screenshots/ARD-Beitrag_11.png](./Screenshots/ARD-Beitrag_11.png) |
 | 12 | [Screenshots/ARD-Beitrag_12.png](./Screenshots/ARD-Beitrag_12.png) |
 
+
 ---
 
 ## Zusammenfassung des Artikels
